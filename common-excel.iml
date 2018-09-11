@@ -54,9 +54,6 @@
     <orderEntry type="library" name="Maven: xpp3:xpp3_min:1.1.4c" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jettison:jettison:1.0.1" level="project" />
     <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
-    <orderEntry type="module" module-name="common-assist" />
-    <orderEntry type="library" name="Maven: commons-io:commons-io:2.2" level="project" />
-    <orderEntry type="library" name="Maven: commons-fileupload:commons-fileupload:1.2.1" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.24" level="project" />
+    <orderEntry type="library" name="Maven: com.wordty.common.assist:common-assist:1.0-SNAPSHOT" level="project" />
   </component>
 </module>

@@ -59,7 +59,6 @@ public class ReadXSSFBaseHandler implements XSSFSheetXMLHandler.SheetContentsHan
      * 是保存在数据里面的模板title
      */
     protected List<String> stencilTitle = new ArrayList<String>();
-    ;
     /**
      * 当前解析的excel列头
      */
@@ -260,7 +259,6 @@ public class ReadXSSFBaseHandler implements XSSFSheetXMLHandler.SheetContentsHan
         List<String> tl = Arrays.asList("L00 Responsibility Area", "L01 Responsibility Area", "L01 Posting period", "L00 Material", "L01 Material", "L01 Material Key", "L01 Material Product (Key)");
 
         t.stencilTitle.addAll(tl);
-
 
 
         t.parse();
